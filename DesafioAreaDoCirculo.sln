@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioAreaDoCirculo", "DesafioAreaDoCirculo\DesafioAreaDoCirculo.csproj", "{BEC22CA6-3136-4450-9A58-CA824056C038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC22CA6-3136-4450-9A58-CA824056C038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC22CA6-3136-4450-9A58-CA824056C038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC22CA6-3136-4450-9A58-CA824056C038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC22CA6-3136-4450-9A58-CA824056C038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1F56E5-4CF6-4CA5-9002-321C56BAA1B7}
+	EndGlobalSection
+EndGlobal
